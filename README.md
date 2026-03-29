@@ -21,3 +21,20 @@ It was created as a practice project to learn how to:
 
 ## 🚀 How to Run
 1. Clone the repository:
+2. Open the project folder
+3. Open `index.html` in your browser
+
+## 🎯 Purpose
+The purpose of this project is to practice:
+- Basic web development
+- Git commands (add, commit, push)
+- Uploading projects to GitHub
+
+## 📈 Future Improvements
+- Add more styling and responsiveness
+- Include JavaScript for interactivity
+- Improve UI design
+- Add more pages
+
+## 👤 Author
+Created by Areeb (for learning and practice purposes)
